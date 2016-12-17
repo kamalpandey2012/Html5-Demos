@@ -7,4 +7,5 @@ Contents of Demo
 <li>Header and Articles</li>
 <li>Footer</li>
 <li>Section</li>
+<li>Address Tag</li>
 </ol>
