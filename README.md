@@ -11,4 +11,5 @@ Contents of Demo
 <li>Aside Tag</li>
 <li>Figure and FigCaption</li>
 <li>Summary and Details Tag</li>
+<li>Mark, Meter, Progress, Output and Time
 </ol>
