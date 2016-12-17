@@ -5,4 +5,5 @@ This Will contain demos of new tags in HTML5 <br>
 Contents of Demo
 <ol>
 <li>Header and Articles</li>
+<li>Footer</li>
 </ol>
