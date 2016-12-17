@@ -6,4 +6,5 @@ Contents of Demo
 <ol>
 <li>Header and Articles</li>
 <li>Footer</li>
+<li>Section</li>
 </ol>
