@@ -10,4 +10,5 @@ Contents of Demo
 <li>Address Tag</li>
 <li>Aside Tag</li>
 <li>Figure and FigCaption</li>
+<li>Summary and Details Tag</li>
 </ol>
