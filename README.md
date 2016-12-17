@@ -8,4 +8,5 @@ Contents of Demo
 <li>Footer</li>
 <li>Section</li>
 <li>Address Tag</li>
+<li>Aside Tag</li>
 </ol>
